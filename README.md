@@ -110,6 +110,7 @@ A. Adicionar as tabelas
     
 ![alt text](image-23.png)
 
+
 ![alt text](image-20.png)
 
 - Vamos realizar o mesmo processo para a tabela Compras
@@ -136,16 +137,19 @@ A. Adicionar as tabelas
   #### Configuração da tabela Compras
 
   ![alt text](image-25.png)
+  
   ![alt text](image-26.png)
 
   #### Configuração da tabela Estoque
 
-![alt text](image-27.png) 
+![alt text](image-27.png)
+
 ![alt text](image-28.png)
 
 #### Configuração da tabela Vendas
 
 ![alt text](image-29.png)
+
 ![alt text](image-30.png)
 
 ---
