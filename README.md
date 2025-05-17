@@ -37,6 +37,7 @@ Este aplicativo foi criado com AppSheet, utilizando planilhas do Google como bas
 - Selecione a planilha Controle de Estoque que você criou
 
 ![selecao da planilha criada para o uso do aplicativo anteriormente](image-3.png)
+
 ![demonstrando a procura pela planilha e selecionando](image-4.png)
 
 - O AppSheet vai gerar automaticamente uma interface inicial com base nas aba Estoque
@@ -64,7 +65,7 @@ A. Adicionar as tabelas
 ### B. Ajustando o drive
 - Vá em Menu > Info > Properties > App properties > Role ate o final da pagina localizando a informação de "Default app folder"
 
-    ![alt text]![alt text](image-16.png)
+    ![alt text](image-16.png)
 
 - Mova a planilha que você criou para esse diretorio, após localizar a pasta no seu drive
 
